@@ -1,0 +1,1 @@
+export {default as getAllProductsQuerry} from './get-all-products'
